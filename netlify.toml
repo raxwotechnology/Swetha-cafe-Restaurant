@@ -1,0 +1,14 @@
+[build]
+  base    = "frontend"
+  command = "CI=false npm ci && chmod +x node_modules/.bin/react-scripts && npm run build"
+  publish = "build"
+
+[build.environment]
+  REACT_APP_API_BASE_URL = "https://swetha-cafe-restaurant.onrender.com"
+  NODE_VERSION = "18"
+  SECRETS_SCAN_SMART_DETECTION_ENABLED = "false"
+
+[[redirects]]
+  from   = "/*"
+  to     = "/index.html"
+  status = 200

@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6a48b593599fa842cbd7b9aa",
+    "category": "Marketing",
+    "amount": 15000,
+    "date": "2026-06-05T12:00:00.000Z",
+    "description": "Facebook ads campaign",
+    "paymentMethod": "Card",
+    "addedBy": "6a48b58f599fa842cbd7b965",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9ab",
+    "category": "Stationery",
+    "amount": 3500,
+    "date": "2026-06-12T10:00:00.000Z",
+    "description": "Printed receipt rolls",
+    "paymentMethod": "Cash",
+    "addedBy": "6a48b58f599fa842cbd7b967",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9ac",
+    "category": "Cleaning",
+    "amount": 6500,
+    "date": "2026-06-28T16:00:00.000Z",
+    "description": "Floor cleaners and sanitizers",
+    "paymentMethod": "Cash",
+    "addedBy": "6a48b58f599fa842cbd7b967",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9ad",
+    "category": "Marketing",
+    "amount": 8000,
+    "date": "2026-07-03T11:00:00.000Z",
+    "description": "Flyer distribution in local area",
+    "paymentMethod": "Cash",
+    "addedBy": "6a48b58f599fa842cbd7b965",
+    "__v": 0
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "6a48b593599fa842cbd7b998",
+    "phone": "0770001111",
+    "name": "Alice Smith",
+    "createdAt": "2026-07-04T07:26:11.123Z",
+    "updatedAt": "2026-07-04T07:26:11.123Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b999",
+    "phone": "0770002222",
+    "name": "Bob Johnson",
+    "createdAt": "2026-07-04T07:26:11.123Z",
+    "updatedAt": "2026-07-04T07:26:11.123Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b99a",
+    "phone": "0770003333",
+    "name": "Charlie Brown",
+    "createdAt": "2026-07-04T07:26:11.124Z",
+    "updatedAt": "2026-07-04T07:26:11.124Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b99b",
+    "phone": "0770004444",
+    "name": "Diana Prince",
+    "createdAt": "2026-07-04T07:26:11.124Z",
+    "updatedAt": "2026-07-04T07:26:11.124Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6a48b593599fa842cbd7b9bc",
+    "employee": "6a48b592599fa842cbd7b982",
+    "basicSalary": 45000,
+    "otHours": 10,
+    "otRate": 200,
+    "total": 47000,
+    "date": "2026-06-30T17:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9bd",
+    "employee": "6a48b592599fa842cbd7b983",
+    "basicSalary": 35000,
+    "otHours": 5,
+    "otRate": 150,
+    "total": 35750,
+    "date": "2026-06-30T17:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9be",
+    "employee": "6a48b592599fa842cbd7b984",
+    "basicSalary": 25000,
+    "otHours": 12,
+    "otRate": 100,
+    "total": 26200,
+    "date": "2026-06-30T17:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9bf",
+    "employee": "6a48b592599fa842cbd7b985",
+    "basicSalary": 25000,
+    "otHours": 8,
+    "otRate": 100,
+    "total": 25800,
+    "date": "2026-06-30T17:00:00.000Z",
+    "__v": 0
+  }
+]

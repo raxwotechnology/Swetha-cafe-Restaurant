@@ -1,0 +1,105 @@
+[
+  {
+    "_id": "6a48b593599fa842cbd7b99d",
+    "supplier": "6a48b592599fa842cbd7b97b",
+    "amount": 8000,
+    "date": "2026-06-10T10:00:00.000Z",
+    "billNo": "FF-10023",
+    "billItems": [
+      {
+        "description": "Tomatoes",
+        "quantity": 40,
+        "unitPrice": 150,
+        "total": 6000,
+        "note": "Fresh vegetables",
+        "_id": "6a48b593599fa842cbd7b99e"
+      },
+      {
+        "description": "Lettuce",
+        "quantity": 10,
+        "unitPrice": 200,
+        "total": 2000,
+        "_id": "6a48b593599fa842cbd7b99f"
+      }
+    ],
+    "paymentMethod": "Cash",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9a0",
+    "supplier": "6a48b592599fa842cbd7b97c",
+    "amount": 25000,
+    "date": "2026-06-18T11:00:00.000Z",
+    "billNo": "PM-509",
+    "billItems": [
+      {
+        "description": "Chicken Breasts",
+        "quantity": 25,
+        "unitPrice": 800,
+        "total": 20000,
+        "note": "High quality chicken",
+        "_id": "6a48b593599fa842cbd7b9a1"
+      },
+      {
+        "description": "Beef Mince",
+        "quantity": 5,
+        "unitPrice": 1000,
+        "total": 5000,
+        "_id": "6a48b593599fa842cbd7b9a2"
+      }
+    ],
+    "paymentMethod": "Bank Transfer",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9a3",
+    "supplier": "6a48b592599fa842cbd7b97d",
+    "amount": 15000,
+    "date": "2026-06-25T14:30:00.000Z",
+    "billNo": "DB-4091",
+    "billItems": [
+      {
+        "description": "Coca Cola Cans",
+        "quantity": 100,
+        "unitPrice": 100,
+        "total": 10000,
+        "note": "Beverage stock",
+        "_id": "6a48b593599fa842cbd7b9a4"
+      },
+      {
+        "description": "Sprite Cans",
+        "quantity": 50,
+        "unitPrice": 100,
+        "total": 5000,
+        "_id": "6a48b593599fa842cbd7b9a5"
+      }
+    ],
+    "paymentMethod": "Card",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9a6",
+    "supplier": "6a48b592599fa842cbd7b97b",
+    "amount": 6000,
+    "date": "2026-07-02T09:00:00.000Z",
+    "billNo": "FF-10112",
+    "billItems": [
+      {
+        "description": "Onions",
+        "quantity": 20,
+        "unitPrice": 150,
+        "total": 3000,
+        "_id": "6a48b593599fa842cbd7b9a7"
+      },
+      {
+        "description": "Potatoes",
+        "quantity": 30,
+        "unitPrice": 100,
+        "total": 3000,
+        "_id": "6a48b593599fa842cbd7b9a8"
+      }
+    ],
+    "paymentMethod": "Cash",
+    "__v": 0
+  }
+]

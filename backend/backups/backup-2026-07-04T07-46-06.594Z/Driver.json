@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "6a48b592599fa842cbd7b97f",
+    "name": "Ravi Kumara",
+    "nic": "199411223344",
+    "vehicle": "Motorbike",
+    "numberPlate": "WP-BGG-1234",
+    "address": "No. 4, Temple Road, Dehiwala",
+    "phone": "0777123456",
+    "addedBy": "6a48b58f599fa842cbd7b967",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b592599fa842cbd7b980",
+    "name": "Nimal Perera",
+    "nic": "199122334455",
+    "vehicle": "Motorbike",
+    "numberPlate": "WP-BJJ-5678",
+    "address": "No. 15, Station Road, Mount Lavinia",
+    "phone": "0711123456",
+    "addedBy": "6a48b58f599fa842cbd7b967",
+    "__v": 0
+  }
+]

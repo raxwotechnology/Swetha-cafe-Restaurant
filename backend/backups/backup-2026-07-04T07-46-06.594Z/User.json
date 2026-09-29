@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "6a48b58f599fa842cbd7b965",
+    "name": "Admin User",
+    "email": "admin@rms.com",
+    "password": "$2b$10$UQieylpHxaNGeF3/fYHFxerXOnk1TtpIwqK.DADmvjh.5sHvGS9ty",
+    "role": "admin",
+    "isActive": true,
+    "__v": 0
+  },
+  {
+    "_id": "6a48b58f599fa842cbd7b967",
+    "name": "Cashier User",
+    "email": "cashier@rms.com",
+    "password": "$2b$10$9HxSBBLtaH86D3dzpKNsxeFsWqCQhnPPO/HBJKd0D91FOIAGgnG7m",
+    "role": "cashier",
+    "isActive": true,
+    "__v": 0
+  },
+  {
+    "_id": "6a48b58f599fa842cbd7b969",
+    "name": "Kitchen User",
+    "email": "kitchen@rms.com",
+    "password": "$2b$10$Xu.dfxJG2TngnINUbfFFEeNenLF8swHtWTDtxoGn1kBcHgOahuz0C",
+    "role": "kitchen",
+    "isActive": true,
+    "__v": 0
+  }
+]

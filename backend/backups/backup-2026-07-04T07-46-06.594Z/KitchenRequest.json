@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "6a48b593599fa842cbd7b9b8",
+    "requestedBy": "6a48b58f599fa842cbd7b969",
+    "item": "Tomato Puree",
+    "quantity": 10,
+    "unit": "kg",
+    "reason": "Running low for pizza sauce",
+    "date": "2026-07-02T10:00:00.000Z",
+    "status": "Approved",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9b9",
+    "requestedBy": "6a48b58f599fa842cbd7b969",
+    "item": "Mozzarella Cheese",
+    "quantity": 5,
+    "unit": "kg",
+    "reason": "Running low",
+    "date": "2026-07-03T08:30:00.000Z",
+    "status": "Pending",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9ba",
+    "requestedBy": "6a48b58f599fa842cbd7b969",
+    "item": "Chicken Breast",
+    "quantity": 20,
+    "unit": "kg",
+    "reason": "Weekend preparation",
+    "date": "2026-07-04T07:15:00.000Z",
+    "status": "Pending",
+    "__v": 0
+  }
+]

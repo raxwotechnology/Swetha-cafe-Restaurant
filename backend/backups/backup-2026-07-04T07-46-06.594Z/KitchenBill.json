@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6a48b593599fa842cbd7b9b3",
+    "type": "Gas",
+    "amount": 15000,
+    "date": "2026-06-15T08:00:00.000Z",
+    "description": "Monthly gas cylinder refill",
+    "paymentMethod": "Cash",
+    "addedBy": "6a48b58f599fa842cbd7b965",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9b4",
+    "type": "Electricity",
+    "amount": 28000,
+    "date": "2026-06-20T17:00:00.000Z",
+    "description": "Electricity bill for June",
+    "paymentMethod": "Card",
+    "addedBy": "6a48b58f599fa842cbd7b965",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9b5",
+    "type": "Water",
+    "amount": 8500,
+    "date": "2026-06-22T10:00:00.000Z",
+    "description": "Water bill for June",
+    "paymentMethod": "Bank Transfer",
+    "addedBy": "6a48b58f599fa842cbd7b965",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9b6",
+    "type": "Repairs",
+    "amount": 12000,
+    "date": "2026-07-01T14:00:00.000Z",
+    "description": "Kitchen exhaust fan repairs",
+    "paymentMethod": "Cash",
+    "addedBy": "6a48b58f599fa842cbd7b965",
+    "__v": 0
+  }
+]

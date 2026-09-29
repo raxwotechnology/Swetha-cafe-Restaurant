@@ -1,0 +1,450 @@
+[
+  {
+    "_id": "6a48b594599fa842cbd7b9c1",
+    "employeeId": "6a48b592599fa842cbd7b982",
+    "date": "2026-07-01T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9c2"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9c3"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9c4"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9c5"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9c6",
+    "employeeId": "6a48b592599fa842cbd7b982",
+    "date": "2026-07-02T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9c7"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9c8"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9c9"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9ca"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9cb",
+    "employeeId": "6a48b592599fa842cbd7b982",
+    "date": "2026-07-03T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9cc"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9cd"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9ce"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9cf"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9d0",
+    "employeeId": "6a48b592599fa842cbd7b982",
+    "date": "2026-07-04T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9d1"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9d2"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9d3"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9d4"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9d5",
+    "employeeId": "6a48b592599fa842cbd7b983",
+    "date": "2026-07-01T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9d6"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9d7"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9d8"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9d9"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9da",
+    "employeeId": "6a48b592599fa842cbd7b983",
+    "date": "2026-07-02T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9db"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9dc"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9dd"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9de"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9df",
+    "employeeId": "6a48b592599fa842cbd7b983",
+    "date": "2026-07-03T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9e0"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9e1"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9e2"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9e3"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9e4",
+    "employeeId": "6a48b592599fa842cbd7b983",
+    "date": "2026-07-04T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9e5"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9e6"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9e7"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9e8"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9e9",
+    "employeeId": "6a48b592599fa842cbd7b984",
+    "date": "2026-07-01T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9ea"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9eb"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9ec"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9ed"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9ee",
+    "employeeId": "6a48b592599fa842cbd7b984",
+    "date": "2026-07-02T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9ef"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9f0"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9f1"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9f2"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9f3",
+    "employeeId": "6a48b592599fa842cbd7b984",
+    "date": "2026-07-03T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9f4"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9f5"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9f6"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9f7"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9f8",
+    "employeeId": "6a48b592599fa842cbd7b984",
+    "date": "2026-07-04T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9f9"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9fa"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7b9fb"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7b9fc"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7b9fd",
+    "employeeId": "6a48b592599fa842cbd7b985",
+    "date": "2026-07-01T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7b9fe"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7b9ff"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7ba00"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7ba01"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7ba02",
+    "employeeId": "6a48b592599fa842cbd7b985",
+    "date": "2026-07-02T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7ba03"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7ba04"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7ba05"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7ba06"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7ba07",
+    "employeeId": "6a48b592599fa842cbd7b985",
+    "date": "2026-07-03T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7ba08"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7ba09"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7ba0a"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7ba0b"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a48b594599fa842cbd7ba0c",
+    "employeeId": "6a48b592599fa842cbd7b985",
+    "date": "2026-07-04T00:00:00.000Z",
+    "punches": [
+      {
+        "time": "08:30 AM",
+        "type": "In",
+        "_id": "6a48b594599fa842cbd7ba0d"
+      },
+      {
+        "time": "01:00 PM",
+        "type": "Break In",
+        "_id": "6a48b594599fa842cbd7ba0e"
+      },
+      {
+        "time": "01:45 PM",
+        "type": "Break Out",
+        "_id": "6a48b594599fa842cbd7ba0f"
+      },
+      {
+        "time": "05:30 PM",
+        "type": "Out",
+        "_id": "6a48b594599fa842cbd7ba10"
+      }
+    ],
+    "__v": 0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6a48b591599fa842cbd7b971",
+    "placeName": "Colombo 1-15",
+    "charge": 250,
+    "createdAt": "2026-07-04T07:26:09.658Z",
+    "updatedAt": "2026-07-04T07:26:09.658Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b591599fa842cbd7b973",
+    "placeName": "Dehiwala-Mount Lavinia",
+    "charge": 350,
+    "createdAt": "2026-07-04T07:26:09.798Z",
+    "updatedAt": "2026-07-04T07:26:09.798Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b591599fa842cbd7b975",
+    "placeName": "Nugegoda",
+    "charge": 300,
+    "createdAt": "2026-07-04T07:26:09.944Z",
+    "updatedAt": "2026-07-04T07:26:09.944Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b592599fa842cbd7b977",
+    "placeName": "Rajagiriya",
+    "charge": 400,
+    "createdAt": "2026-07-04T07:26:10.083Z",
+    "updatedAt": "2026-07-04T07:26:10.083Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b592599fa842cbd7b979",
+    "placeName": "Battaramulla",
+    "charge": 450,
+    "createdAt": "2026-07-04T07:26:10.229Z",
+    "updatedAt": "2026-07-04T07:26:10.229Z",
+    "__v": 0
+  }
+]

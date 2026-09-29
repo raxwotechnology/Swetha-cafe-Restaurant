@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "6a48b592599fa842cbd7b97b",
+    "name": "Fresh Farms Ltd",
+    "companyName": "Fresh Farms",
+    "contact": "0112345678",
+    "email": "freshfarms@mail.com",
+    "address": "No. 12, Farm Road, Nuwara Eliya",
+    "createdAt": "2026-07-04T07:26:10.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b592599fa842cbd7b97c",
+    "name": "Prime Meats",
+    "companyName": "Prime Meats",
+    "contact": "0118765432",
+    "email": "primemeats@mail.com",
+    "address": "No. 45, Butcher Street, Colombo 10",
+    "createdAt": "2026-07-04T07:26:10.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b592599fa842cbd7b97d",
+    "name": "Daily Beverages",
+    "companyName": "Daily Beverages",
+    "contact": "0113334445",
+    "email": "beverages@mail.com",
+    "address": "No. 88, Drink Avenue, Gampaha",
+    "createdAt": "2026-07-04T07:26:10.392Z",
+    "__v": 0
+  }
+]

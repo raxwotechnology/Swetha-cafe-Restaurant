@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "6a48b593599fa842cbd7b9af",
+    "source": "Recycling",
+    "amount": 4500,
+    "date": "2026-06-14T15:00:00.000Z",
+    "description": "Sale of waste cardboard & bottles",
+    "paymentMethod": "Cash",
+    "addedBy": "6a48b58f599fa842cbd7b967",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9b0",
+    "source": "Catering Event Deposit",
+    "amount": 50000,
+    "date": "2026-06-28T09:30:00.000Z",
+    "description": "Deposit for July 10th birthday catering",
+    "paymentMethod": "Bank Transfer",
+    "addedBy": "6a48b58f599fa842cbd7b965",
+    "__v": 0
+  },
+  {
+    "_id": "6a48b593599fa842cbd7b9b1",
+    "source": "Catering Event Settlement",
+    "amount": 75000,
+    "date": "2026-07-04T10:00:00.000Z",
+    "description": "Final payment for July 10th catering event",
+    "paymentMethod": "Bank Transfer",
+    "addedBy": "6a48b58f599fa842cbd7b965",
+    "__v": 0
+  }
+]

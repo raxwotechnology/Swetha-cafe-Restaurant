@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "6a48b592599fa842cbd7b982",
+    "id": "EMP-0001",
+    "name": "John Doe",
+    "nic": "199012345678",
+    "phone": "0771234567",
+    "basicSalary": 45000,
+    "workingHours": 8,
+    "otHourRate": 200,
+    "bankAccountNo": "1234567890",
+    "role": "Chef",
+    "__v": 0,
+    "createdAt": "2026-07-04T07:26:10.704Z",
+    "updatedAt": "2026-07-04T07:26:10.704Z"
+  },
+  {
+    "_id": "6a48b592599fa842cbd7b983",
+    "id": "EMP-0002",
+    "name": "Sarah Connor",
+    "nic": "199298765432",
+    "phone": "0711234567",
+    "basicSalary": 35000,
+    "workingHours": 8,
+    "otHourRate": 150,
+    "bankAccountNo": "0987654321",
+    "role": "Cashier",
+    "__v": 0,
+    "createdAt": "2026-07-04T07:26:10.704Z",
+    "updatedAt": "2026-07-04T07:26:10.704Z"
+  },
+  {
+    "_id": "6a48b592599fa842cbd7b984",
+    "id": "EMP-0003",
+    "name": "Michael Scott",
+    "nic": "198512345999",
+    "phone": "0721234567",
+    "basicSalary": 25000,
+    "workingHours": 8,
+    "otHourRate": 100,
+    "bankAccountNo": "1122334455",
+    "role": "Waiter",
+    "__v": 0,
+    "createdAt": "2026-07-04T07:26:10.704Z",
+    "updatedAt": "2026-07-04T07:26:10.704Z"
+  },
+  {
+    "_id": "6a48b592599fa842cbd7b985",
+    "id": "EMP-0004",
+    "name": "Dwight Schrute",
+    "nic": "198812345111",
+    "phone": "0751234567",
+    "basicSalary": 25000,
+    "workingHours": 8,
+    "otHourRate": 100,
+    "bankAccountNo": "5544332211",
+    "role": "Waiter",
+    "__v": 0,
+    "createdAt": "2026-07-04T07:26:10.705Z",
+    "updatedAt": "2026-07-04T07:26:10.705Z"
+  }
+]
